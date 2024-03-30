@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Joshi</h1>
 <h3 align="center">I am an QA(Quality Assurance) engineer with 5.5 years of experience. I have tested a wide range of web, mobile and desktop App and Salesforce application .</h3>
 
-- 🔭 I’m currently working on **Salesforces Application Project**
+- 🔭 I’m currently working on **Salesforces Application Projects**
 
 - 📫 How to reach me **shub.joshi28@gmail.com**
 
